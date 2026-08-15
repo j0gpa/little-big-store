@@ -1,0 +1,30 @@
+.product-image-container {
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px;
+  background-color: #f9fafb;
+}
+
+.product-image-container img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.offer-section {
+  background-color: #000000 !important;
+  border-color: #FFD700 !important;
+  text-shadow: 0 0 10px #FFD700;
+}
+
+.offer-section p {
+  color: #FFD700 !important;
+  text-shadow: 0 0 10px #FFD700;
+  font-weight: bold;
+}
+
+.offer-section del {
+  color: #FF4444 !important;
+  text-shadow: 0 0 8px #FF4444;
+}
